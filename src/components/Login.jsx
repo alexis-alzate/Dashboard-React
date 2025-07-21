@@ -63,7 +63,7 @@ const Login = () => {
         <div className="bg-white rounded-xl shadow-lg p-8 transition-all hover:shadow-xl">
           <div className="text-center mb-8">
             <div className="w-16 h-16 bg-blue-600 rounded-xl mx-auto mb-4 flex items-center justify-center text-white text-2xl font-bold">
-              AD
+              AL
             </div>
             <h1 className="text-2xl font-bold text-gray-900">Bienvenido de nuevo</h1>
             <p className="text-gray-600 mt-2">Ingresa a tu panel administrativo</p>

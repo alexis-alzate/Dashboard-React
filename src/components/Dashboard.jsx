@@ -1,3 +1,5 @@
+
+import ProductsTable from './ProductsTable';
 import React, { useState } from 'react';
 import Sidebar from './Sidebar';
 import DashboardContent from './DashboardContent';
@@ -9,23 +11,23 @@ const Dashboard = () => {
   const [activeMenu, setActiveMenu] = useState('dashboard');
 
   const renderContent = () => {
-    switch (activeMenu) {
-      case 'dashboard':
-        return <DashboardContent />;
-      case 'users':
-        return <UsersTable />;
-      case 'products':
-        return <PlaceholderView title="Productos" />;
-      case 'orders':
-        return <PlaceholderView title="Órdenes" />;
-      case 'analytics':
-        return <PlaceholderView title="Analíticas" />;
-      case 'settings':
-        return <PlaceholderView title="Configuración" />;
-      default:
-        return <DashboardContent />;
-    }
-  };
+  switch (activeMenu) {
+    case 'dashboard':
+      return <DashboardContent />;
+    case 'users':
+      return <UsersTable />;
+    case 'products':
+      return <ProductsTable />; // 👈 Agrega esta línea
+    case 'orders':
+      return <PlaceholderView title="Órdenes" />;
+    case 'analytics':
+      return <PlaceholderView title="Analíticas" />;
+    case 'settings':
+      return <PlaceholderView title="Configuración" />;
+    default:
+      return <DashboardContent />;
+  }
+};
 
   return (
     <div className="min-h-screen bg-gray-50">
