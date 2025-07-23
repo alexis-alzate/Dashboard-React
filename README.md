@@ -29,7 +29,7 @@
 ## 📸 Capturas de Pantalla
 
 ### 🔐 Sistema de Autenticación
-![Login Screen](./assets/screenshots/login.gif)
+![Login Screen](./src/assets/screenshots/login.gif)
 
 *Sistema de login seguro con validación en tiempo real y persistencia de sesión*
 
@@ -52,7 +52,7 @@
 </table>
 
 ### 👥 Gestión de Usuarios
-![Users Management](./assets/screenshots/gestionusuarioc.png)
+![Users Management](./src/assets/screenshots/gestionusuarioc.png)
 *CRUD completo de usuarios con búsqueda y filtros avanzados*
 
 ### 📦 Gestión de Productos
