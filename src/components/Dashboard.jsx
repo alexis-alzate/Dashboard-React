@@ -10,16 +10,16 @@ const Dashboard = () => {
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const [activeMenu, setActiveMenu] = useState('dashboard');
 
-  const renderContent = () => {
+const renderContent = () => {
   switch (activeMenu) {
     case 'dashboard':
       return <DashboardContent />;
     case 'users':
       return <UsersTable />;
     case 'products':
-      return <ProductsTable />; // 👈 Agrega esta línea
+      return <ProductsTable />;
     case 'orders':
-      return <PlaceholderView title="Órdenes" />;
+      return <OrdersTable />; // 👈 ESTA ES LA LÍNEA QUE CAMBIAS
     case 'analytics':
       return <PlaceholderView title="Analíticas" />;
     case 'settings':
@@ -28,7 +28,6 @@ const Dashboard = () => {
       return <DashboardContent />;
   }
 };
-
   return (
     <div className="min-h-screen bg-gray-50">
       <Sidebar 

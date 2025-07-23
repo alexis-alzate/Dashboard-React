@@ -30,6 +30,7 @@
 
 ### 🔐 Sistema de Autenticación
 ![Login Screen](../dashboard-admin/assets/screenshots/login.gif)
+
 *Sistema de login seguro con validación en tiempo real y persistencia de sesión*
 
 ### 📊 Dashboard Principal
@@ -51,7 +52,7 @@
 </table>
 
 ### 👥 Gestión de Usuarios
-![Users Management](ruta/a/tu/imagen-usuarios.png)
+![Users Management](../dashboard-admin/assets/screenshots/gestionusuarioc.png)
 *CRUD completo de usuarios con búsqueda y filtros avanzados*
 
 ### 📦 Gestión de Productos
