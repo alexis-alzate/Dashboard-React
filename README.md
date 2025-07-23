@@ -60,7 +60,7 @@
 *Sistema de inventario con vista tabla/grid y gestión de imágenes*
 
 ### 🛍️ Sistema de Órdenes
-![Orders System](ruta/a/tu/imagen-ordenes.png)
+![Orders System](../dashboard-admin/assets/screenshots/Ordenes.png)
 *Gestión completa de pedidos con timeline de tracking*
 
 ### 📱 Diseño Responsive
@@ -174,7 +174,7 @@
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/admin-dashboard-pro.git
+git clone https://github.com/alexis-alzate/Dashboard-React.git
 
 # Navegar al directorio
 cd admin-dashboard-pro
