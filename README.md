@@ -29,12 +29,12 @@
 ## 📸 Capturas de Pantalla
 
 ### 🔐 Sistema de Autenticación
-![Login Screen](../dashboard-admin/assets/screenshots/login.gif)
+![Login Screen](./assets/screenshots/login.gif)
 
 *Sistema de login seguro con validación en tiempo real y persistencia de sesión*
 
 ### 📊 Dashboard Principal
-![Dashboard](../dashboard-admin/assets/screenshots/Dashboardpc.gif)
+![Dashboard](./assets/screenshots/Dashboardpc.gif)
 *Vista general con estadísticas en tiempo real y gráficos interactivos*
 
 ### 🌓 Modo Claro / Oscuro
@@ -52,11 +52,11 @@
 </table>
 
 ### 👥 Gestión de Usuarios
-![Users Management](../dashboard-admin/assets/screenshots/gestionusuarioc.png)
+![Users Management](./assets/screenshots/gestionusuarioc.png)
 *CRUD completo de usuarios con búsqueda y filtros avanzados*
 
 ### 📦 Gestión de Productos
-![Products Management](ruta/a/tu/imagen-productos.png)
+![Products Management](./assets/screenshots/)
 *Sistema de inventario con vista tabla/grid y gestión de imágenes*
 
 ### 🛍️ Sistema de Órdenes
