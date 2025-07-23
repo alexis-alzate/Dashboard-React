@@ -34,7 +34,7 @@
 *Sistema de login seguro con validación en tiempo real y persistencia de sesión*
 
 ### 📊 Dashboard Principal
-![Dashboard](./assets/screenshots/Dashboardpc.gif)
+![Dashboard](./src/assets/screenshots/Dashboardpc.gif)
 *Vista general con estadísticas en tiempo real y gráficos interactivos*
 
 ### 🌓 Modo Claro / Oscuro
@@ -56,18 +56,18 @@
 *CRUD completo de usuarios con búsqueda y filtros avanzados*
 
 ### 📦 Gestión de Productos
-![Products Management](./assets/screenshots/)
+![Products Management](./src/assets/screenshots/productos.png)
 *Sistema de inventario con vista tabla/grid y gestión de imágenes*
 
 ### 🛍️ Sistema de Órdenes
-![Orders System](../dashboard-admin/assets/screenshots/Ordenes.png)
+![Orders System](./src/assets/screenshots/Ordenes.png)
 *Gestión completa de pedidos con timeline de tracking*
 
 ### 📱 Diseño Responsive
 <table>
   <tr>
     <td width="33%">
-      <img src="ruta/a/tu/imagen-mobile.png" alt="Vista Móvil" />
+      <img src="./src/assets/screenshots/movil.png" alt="Vista Móvil" />
       <p align="center"><em>Móvil</em></p>
     </td>
     <td width="33%">
@@ -75,7 +75,7 @@
       <p align="center"><em>Tablet</em></p>
     </td>
     <td width="33%">
-      <img src="ruta/a/tu/imagen-desktop.png" alt="Vista Desktop" />
+      <img src="./src/assets/screenshots/login.gif" alt="Vista Desktop" />
       <p align="center"><em>Desktop</em></p>
     </td>
   </tr>
