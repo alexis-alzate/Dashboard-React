@@ -7,7 +7,8 @@
   </p>
   
   <p align="center">
-    <a href="#demo">Ver Demo</a>
+    ·
+   <a href="https://dashboard-react-kohl.vercel.app/">Ver Demo</a>
     ·
     <a href="#características">Características</a>
     ·
