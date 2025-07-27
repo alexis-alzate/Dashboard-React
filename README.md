@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Creando_desde-el_Búnker-000000?style=for-the-badge&logo=codeberg&logoColor=white" alt="Bunker Badge" />
+</p>
+
 <div align="center">
   
   # 🚀 Admin Dashboard Pro
