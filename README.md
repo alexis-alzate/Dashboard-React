@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Creando_desde-el_Búnker-000000?style=for-the-badge&logo=codeberg&logoColor=white" alt="Bunker Badge" />
+  <img src="https://img.shields.io/badge/Creando-desde-38B2AC?style=for-the-badge&logo=react&logoColor=white" alt="CreandoBadge"/><img src="https://img.shields.io/badge/el-Búnker-1a202c?style=for-the-badge&logo=terminal&logoColor=white" alt="Bunker Badge" />
 </p>
 
 <div align="center">
